@@ -1,0 +1,15 @@
+{
+  "name": "lab-c214",
+  "version": "1.0.0",
+  "description": "atividades para aula 3 - Node npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vrb",
+  "license": "ISC",
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
